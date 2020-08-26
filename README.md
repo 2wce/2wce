@@ -7,7 +7,7 @@ I’m a Fullstack JS developer and part-time writer. I currently work as a Senio
 - 📱  I’m currently working on a Fantasy Premier League App, tutorials from DesignCode and private projects for SovTech 😊.
 - 🤓 I’m currently learning SwiftUI & React Native.
 - 💬  Ask me about JS development, Typescript, NodeJS, AWS.
-- 📫  How to reach me: kudamupeni@icloud.com or Twitter [@real_kuda](https://twitter.com/real_kuda)
+- 📫  How to reach me: kudamupeni@gmail.com or Twitter [@real_kuda](https://twitter.com/real_kuda)
 - 🏏  Fun fact: I love cricket and I hope to one day join an action cricket club!
 
 ---
