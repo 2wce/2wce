@@ -9,3 +9,11 @@ I’m a Fullstack JS developer and part-time writer. I currently work as a Senio
 - 💬  Ask me about JS development, Typescript, NodeJS.
 - 📫  How to reach me: kudamupeni@icloud.com or Twitter [@real_kuda](https://twitter.com/real_kuda)
 - 🚴🏽‍♀️  Fun fact: I love cricket and I'm currently building up my fitness so I can join an action cricket club!
+
+---
+
+**Now Playing** on Spotify
+
+<a href="https://now-playing-profile-pied.vercel.app/now-playing?open">
+    <img src="https://now-playing-profile-pied.vercel.app/now-playing" width="256" height="64" alt="Now Playing">
+</a>
