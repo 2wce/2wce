@@ -1,4 +1,4 @@
-<img marginTop="0" align="right" src="https://github.com/2wce/2wce.github.io/blob/develop/src/assets/illustrations/dev.svg" alt="Illustration of Kudakwashe working on his laptop" width=350px height=300px/>
+<img marginTop="0" align="right" src="https://github.com/2wce/old-portfolio/blob/develop/src/assets/illustrations/dev.svg" alt="Illustration of Kudakwashe working on his laptop" width=350px height=300px/>
 
 ### Hi, I'm Kudakwashe 👋
 
