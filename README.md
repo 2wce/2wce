@@ -2,7 +2,7 @@
 
 ### Hi, I'm Kudakwashe 👋
 
-I’m a Fullstack JS developer and part-time writer. I currently work as a Senior FullStack Engineer at Contentful. 
+I’m a Fullstack JS developer and part-time writer. I currently work as a FullStack Engineer at Contentful. 
 
 - 📱  I’m currently working on my personal website, a few Node.JS templates and private projects for Contentful 😊.
 - 🤓 I’m currently learning Swift & React Native.
