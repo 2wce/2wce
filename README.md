@@ -5,7 +5,7 @@
 I’m a Fullstack JS developer and part-time writer. I currently work as a FullStack Engineer at Contentful. 
 
 - 📱  I’m currently working on my personal website, a few Node.JS templates and private projects for Contentful 😊.
-- 🤓 I’m currently learning Swift & React Native.
+- 🤓 I’m currently learning Rust, Swift & React Native.
 - 💬  Ask me about JS development, Typescript, NodeJS, AWS.
 - 📫  How to reach me: kudamupeni@gmail.com or Twitter [@real_kuda](https://twitter.com/real_kuda)
 - 🏏  Fun fact: I love cricket and I hope to one day join an action cricket club!
