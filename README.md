@@ -19,7 +19,7 @@ I’m a Fullstack JS developer and part-time writer. I currently work as a FullS
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=2wce&layout=compact&theme=cobalt)
 
 ## 🐍 GitHub Contribution Snake Game
-![Snake Game](https://raw.githubusercontent.com/2wce/2wce/master/dist/github-contribution-grid-snake.svg)
+![Snake Game](https://raw.githubusercontent.com/2wce/2wce/master/github-contribution-grid-snake.svg)
 
 Feel free to explore my repositories and get in touch if you have any questions or collaboration ideas!
 
