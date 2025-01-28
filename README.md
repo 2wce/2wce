@@ -2,7 +2,7 @@
 
 ### Hi, I'm Kudakwashe 👋
 
-I’m a Fullstack JS developer and part-time writer. I currently work as a FullStack Engineer at Contentful. 
+I’m a Fullstack JS developer and part-time writer. I currently work as a FullStack Engineer at Contentful.
 
 - 📱  I’m currently working on my personal website, a few Node.JS templates and private projects for Contentful 😊.
 - 🤓 I’m currently learning Rust, Swift & React Native.
@@ -12,8 +12,15 @@ I’m a Fullstack JS developer and part-time writer. I currently work as a FullS
 
 ---
 
-**Now Playing** on Spotify
+## 📈 GitHub Stats
+![2wce's GitHub stats](https://github-readme-stats.vercel.app/api?username=2wce&show_icons=true&theme=cobalt)
 
-<a href="https://now-playing-profile-pied.vercel.app/now-playing?open">
-    <img src="https://now-playing-profile-pied.vercel.app/now-playing" width="256" height="64" alt="Now Playing">
-</a>
+## 🏆 Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=2wce&layout=compact&theme=cobalt)
+
+## 🐍 GitHub Contribution Snake Game
+![Snake Game](https://github.com/2wce/2wce/raw/output/github-contribution-grid-snake.svg)
+
+Feel free to explore my repositories and get in touch if you have any questions or collaboration ideas!
+
+---
